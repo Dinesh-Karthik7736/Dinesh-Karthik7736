@@ -48,7 +48,7 @@ I'm a passionate and curious developer who’s spent the last few years crafting
 
 > ⚡ "The goal is not to be impressive. The goal is to be impactful."
 
-🌐 [Portfolio](#) | 💼 [LinkedIn](https://linkedin.com/in/yourname) | 📦 [Projects Repo] | ✉️ Reach me at: your.email@example.com
+🌐 [Portfolio](#) | 💼 [LinkedIn](http://www.linkedin.com/in/dinesh-karthik6282) | 📦 [Projects Repo] | ✉️ Reach me at: dk.dinesh6282@gmail.com
 
 ---
 
